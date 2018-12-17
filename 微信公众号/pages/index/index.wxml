@@ -1,0 +1,10 @@
+<view class="container">
+  <view class="usermotto">
+   <view class='biaoqian'>
+    <navigator url='../one/one'>肾内科计算跳转</navigator>
+    <text>\n</text>
+    <navigator url='../two/two'>心内科</navigator>
+
+   </view>
+  </view>
+</view>

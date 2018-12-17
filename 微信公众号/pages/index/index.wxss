@@ -1,0 +1,7 @@
+.mi{border-width: 4rpx 4rpx 1rpx 1rpx;
+    border-color: pink;
+    border-style: solid;
+    background-color: bisque
+    
+
+}

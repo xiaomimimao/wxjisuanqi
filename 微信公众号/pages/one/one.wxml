@@ -1,0 +1,17 @@
+<view class="container">
+  <view class="usermotto">
+    <view class='diyi'>
+      <text>输入计算式子：</text>
+      <!--view class='mi'-->
+      <input type="text" name='gongshi' bindinput='gongshiinput' placeholder-style='color:red' placeholder='输入公式' class='mi'/>
+      <!--/view-->
+
+      
+        <button bindtap='zhi' size='mini' class='bbutton'>求值</button>
+        <text>\n计算得到的值：</text>
+        <input type='text' class='mi' value='{{morenzhi}}' />
+      
+    </view>
+
+  </view>
+</view>
